@@ -1,0 +1,756 @@
+@import url("https://fonts.googleapis.com/css?family=Arimo:400,700,400italic,700italic|Abel:400");
+
+.glavnaia-kaplun-daniil {
+  align-items: center;
+  background-color: #1b1b1b;
+  display: flex;
+  flex-direction: column;
+  min-height: 3500px;
+  overflow-x: hidden;
+  width: 1920px;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.overlap-group9 {
+  height: 1936px;
+  margin-left: 2px;
+  margin-top: 98px;
+  position: relative;
+  width: 1922px;
+}
+
+.overlap-group-5 {
+  height: 1238px;
+  left: 0;
+  position: absolute;
+  top: 698px;
+  width: 1920px;
+}
+
+.columns {
+  align-items: flex-start;
+  display: flex;
+  height: 235px;
+  left: 240px;
+  min-width: 1440px;
+  position: absolute;
+  top: 492px;
+}
+
+.text-column-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 235px;
+  width: 256px;
+}
+
+.text-1 {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.text-2 {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: 42px;
+  min-height: 164px;
+}
+
+.text-column-3 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 964px;
+  min-height: 219px;
+  width: 224px;
+}
+
+.text-3 {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-right: 4px;
+  min-height: 29px;
+  min-width: 166px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.text-4 {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-right: 4px;
+  margin-top: 42px;
+  min-height: 148px;
+  text-align: right;
+  width: 220px;
+}
+
+.telegram-1 {
+  height: 60px;
+  left: 1558px;
+  position: absolute;
+  top: 724px;
+  width: 60px;
+}
+
+.vk-1 {
+  height: 60px;
+  left: 1620px;
+  position: absolute;
+  top: 724px;
+  width: 60px;
+}
+
+.footer-bg {
+  background-color: var(--mine-shaft);
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 402px;
+  width: 1920px;
+}
+
+.metatron_logo_main_bw-1 {
+  height: 1238px;
+  left: 523px;
+  position: absolute;
+  top: 0;
+  width: 874px;
+}
+
+.image-2 {
+  height: 60px;
+  left: 1492px;
+  object-fit: cover;
+  position: absolute;
+  top: 724px;
+  width: 60px;
+}
+
+.x2022-hyper-dice-gam {
+  color: transparent;
+  font-family: var(--font-family-arimo);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 689px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 841px;
+  white-space: nowrap;
+}
+
+.span1 {
+  color: #ffffff80;
+}
+
+.news {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 238px;
+  min-height: 986px;
+  position: absolute;
+  top: 0;
+  width: 1444px;
+}
+
+.overlap-group5 {
+  align-items: center;
+  background-color: #dedede;
+  display: flex;
+  height: 92px;
+  min-width: 570px;
+  padding: 0 180px;
+}
+
+.text-11 {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-arimo);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 60px;
+  min-height: 60px;
+  min-width: 210px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.overlap-group-container-2 {
+  align-items: center;
+  background-color: var(--mine-shaft);
+  display: flex;
+  flex-direction: column;
+  margin-left: 2px;
+  margin-top: 24px;
+  min-height: 870px;
+  padding: 28px 0;
+  width: 1440px;
+}
+
+.overlap-group {
+  align-items: center;
+  background-color: var(--gravel);
+  display: flex;
+  height: 247px;
+  margin-top: 32px;
+  min-width: 1384px;
+  padding: 21px 22px;
+}
+
+.image-7 {
+  height: 199px;
+  object-fit: cover;
+  width: 444px;
+}
+
+.flex-col-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 56px;
+  min-height: 202px;
+  width: 834px;
+}
+
+.flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 117px;
+  margin-top: 47px;
+  min-width: 834px;
+}
+
+.flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 114px;
+  width: 463px;
+}
+
+.date-2 {
+  letter-spacing: 0;
+  line-height: 26.4px;
+  margin-left: 6px;
+  margin-top: 30px;
+  min-height: 26px;
+  min-width: 111px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.text-5 {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 58px;
+}
+
+.overlap-group-8 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/629e67330b6f131fde74297c/releases/629e67d7acc54d3e6310b9ff/img/rectangle-4@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 62px;
+  margin-left: 40px;
+  min-width: 331px;
+  padding: 9px 76px;
+}
+
+.text {
+  -webkit-text-stroke: 1px var(--stack);
+  letter-spacing: 0;
+  min-height: 41px;
+  min-width: 177px;
+  text-align: center;
+}
+
+.hyper-dice-engine {
+  letter-spacing: 0;
+  line-height: 38.4px;
+  margin-left: 1px;
+  min-height: 38px;
+  min-width: 789px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 54px;
+  min-height: 202px;
+  width: 831px;
+}
+
+.forgotten-realms-da {
+  letter-spacing: 0;
+  line-height: 38.4px;
+  margin-left: 3px;
+  min-height: 38px;
+  min-width: 756px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 140px;
+  margin-top: 24px;
+  min-width: 831px;
+}
+
+.flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 137px;
+  width: 329px;
+}
+
+.text-7 {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 87px;
+}
+
+.date-1 {
+  letter-spacing: 0;
+  line-height: 26.4px;
+  margin-left: 3px;
+  margin-top: 24px;
+  min-height: 26px;
+  min-width: 111px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.overlap-group-7 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/629e67330b6f131fde74297c/releases/629e67d7acc54d3e6310b9ff/img/rectangle-4@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 62px;
+  margin-left: 171px;
+  min-width: 331px;
+  padding: 9px 76px;
+}
+
+.overlap-group3 {
+  align-items: center;
+  background-color: var(--gravel);
+  display: flex;
+  height: 247px;
+  min-width: 1384px;
+  padding: 21px 22px;
+}
+
+.flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 3px;
+  margin-top: 11px;
+  min-width: 828px;
+}
+
+.date {
+  letter-spacing: 0;
+  line-height: 26.4px;
+  margin-bottom: 3px;
+  min-height: 26px;
+  min-width: 111px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.overlap-group-6 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/629e67330b6f131fde74297c/releases/629e67d7acc54d3e6310b9ff/img/rectangle-4@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 62px;
+  margin-left: 386px;
+  min-width: 331px;
+  padding: 9px 76px;
+}
+
+.x {
+  letter-spacing: 0;
+  line-height: 38.4px;
+  min-height: 76px;
+  min-width: 804px;
+  text-align: center;
+}
+
+.text-9 {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-left: 3px;
+  margin-top: 24px;
+  min-height: 29px;
+  min-width: 294px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.overlap-group-container {
+  height: 1539px;
+  margin-top: -575px;
+  position: relative;
+  width: 1920px;
+}
+
+.overlap-group7 {
+  height: 1400px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.metatron_logo_main-1 {
+  height: 849px;
+  left: 660px;
+  position: absolute;
+  top: 295px;
+  width: 600px;
+}
+
+.overlap-group-2 {
+  height: 122px;
+  left: 1483px;
+  position: absolute;
+  top: 563px;
+  width: 196px;
+}
+
+.text-16 {
+  color: var(--white);
+  font-family: var(--font-family-arimo);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 51px;
+  white-space: nowrap;
+  width: 115px;
+}
+
+.dragon-1 {
+  height: 122px;
+  left: 110px;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.header-bg {
+  height: 250px;
+  left: 0;
+  position: absolute;
+  top: 575px;
+  width: 1920px;
+}
+
+.metatron_text-1 {
+  height: 1400px;
+  left: 47px;
+  position: absolute;
+  top: 0;
+  width: 990px;
+}
+
+.overlap-group-container-1 {
+  height: 340px;
+  left: 1103px;
+  position: absolute;
+  top: 530px;
+  width: 247px;
+}
+
+.games-container {
+  height: 197px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.games-1 {
+  height: 197px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 139px;
+}
+
+.games {
+  left: 112px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 80px;
+  width: 88px;
+}
+
+.about-container {
+  height: 197px;
+  left: 0;
+  position: absolute;
+  top: 143px;
+  width: 210px;
+}
+
+.about-1 {
+  height: 197px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 139px;
+}
+
+.about {
+  left: 112px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 80px;
+  width: 99px;
+}
+
+.engine-container {
+  height: 197px;
+  left: 0;
+  position: absolute;
+  top: 72px;
+  width: 247px;
+}
+
+.engine-1 {
+  height: 197px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 139px;
+}
+
+.engine {
+  left: 112px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 80px;
+  width: 135px;
+}
+
+.overlap-group6 {
+  align-items: center;
+  background-color: var(--mine-shaft);
+  display: flex;
+  height: 600px;
+  justify-content: flex-end;
+  left: 240px;
+  min-width: 1440px;
+  padding: 20.5px 25px;
+  position: absolute;
+  top: 939px;
+}
+
+.image-5 {
+  align-self: flex-end;
+  height: 559px;
+  object-fit: cover;
+  width: 850px;
+}
+
+.flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 23px;
+  margin-top: 8.43px;
+  min-height: 510px;
+  width: 516px;
+}
+
+.overlap-group-1 {
+  height: 71px;
+  margin-right: 1px;
+  margin-top: 43px;
+  position: relative;
+  width: 331px;
+}
+
+.rectangle-4 {
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 331px;
+}
+
+.text-15 {
+  -webkit-text-stroke: 1px var(--stack);
+  color: var(--white);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 263px;
+}
+
+.image-4 {
+  height: 236px;
+  margin-top: 46px;
+  object-fit: cover;
+  width: 338px;
+}
+
+.text_label {
+  letter-spacing: 0;
+  line-height: 38.4px;
+  min-height: 115px;
+  text-align: center;
+  width: 516px;
+}
+
+.flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 802px;
+  margin-top: 35px;
+  min-width: 1440px;
+}
+
+.vt {
+  align-items: center;
+  background-color: var(--mine-shaft);
+  display: flex;
+  flex-direction: column;
+  min-height: 802px;
+  padding: 18px 0;
+  width: 700px;
+}
+
+.image-1 {
+  height: 453px;
+  object-fit: cover;
+  width: 642px;
+}
+
+.overlap-group1 {
+  height: 241px;
+  margin-top: 46px;
+  position: relative;
+  width: 642px;
+}
+
+.overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/629e67330b6f131fde74297c/releases/629e67d7acc54d3e6310b9ff/img/rectangle-4@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 62px;
+  left: 155px;
+  min-width: 331px;
+  padding: 14px 21px;
+  position: absolute;
+  top: 179px;
+}
+
+.text-14 {
+  -webkit-text-stroke: 1px var(--stack);
+  color: var(--white);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  min-height: 31px;
+  min-width: 287px;
+  text-align: center;
+}
+
+.text-13 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 642px;
+}
+
+.engine-2 {
+  align-items: center;
+  background-color: var(--mine-shaft);
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  min-height: 802px;
+  padding: 43.6px 0;
+  width: 700px;
+}
+
+.group-17 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 85px;
+  min-height: 225px;
+  width: 478px;
+}
+
+.rpg {
+  letter-spacing: 0;
+  margin-right: 2px;
+  min-height: 102px;
+  min-width: 476px;
+  text-align: center;
+}
+
+.overlap-group-4 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/629e67330b6f131fde74297c/releases/629e67d7acc54d3e6310b9ff/img/rectangle-4@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 62px;
+  margin-right: 1px;
+  margin-top: 64px;
+  min-width: 331px;
+  padding: 9px 45px;
+}
+
+.text-12 {
+  -webkit-text-stroke: 1px var(--stack);
+  letter-spacing: 0;
+  min-height: 41px;
+  min-width: 239px;
+  text-align: center;
+}
+
+.image-3 {
+  height: 401px;
+  object-fit: cover;
+  width: 642px;
+}
